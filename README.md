@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Diego Melo 😁
+## Bem-vindo ao perfil do Diego Melo 😁
 
  <div>
    <a href="https://github.com/diego-melo8">
