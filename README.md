@@ -23,3 +23,5 @@
   <a href = "mailto:diegomelo8@live.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-melo-154a7493" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/diego-melo8/diego-melo8/blob/output/github-contribution-grid-snake.svg)
